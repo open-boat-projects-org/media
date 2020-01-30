@@ -1,0 +1,24 @@
+wahrscheinlich werde ich 4x 55-Zoll Monitore unserer Video-Wand an die Taverse schrauben:
+3 Stk. auf der 4m Seite
+1 Stk. auf der 2m Seite
+
+Durch die Video-Wall Funktionalitaet ist es moeglich, alle Bildschirme mit einem Inhalt zu bespielen:
+
+--------------
+|  1  ||  2  |
+|     ||     |
+--------------
+|  3  ||  4  |
+|     ||     |
+--------------
+
+ergibt eine Art 'Bandenwerbung' 
+
+---------------------  -------
+|  1  ||  2  ||  3  |  |  4  |
+|     ||     ||     |  |     |
+---------------------  -------
+
+Alle Inhalte muessen in einer full HD-Aufloesung vorliegen (1920 × 1080 Pixel).
+
+-Dirk, 2019-11-10--------------

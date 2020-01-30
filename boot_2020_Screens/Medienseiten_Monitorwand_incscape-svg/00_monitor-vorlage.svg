@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="00_monitor-vorlage.svg"
+   inkscape:export-filename="C:\Users\kanne\Desktop\boot_2020\info\monitor-vorlage.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       height="111.402"
+       width="157.19701"
+       y="-0.59799999"
+       x="0"
+       id="SVGID_1_" />
+    <rect
+       height="111.402"
+       width="157.19701"
+       y="-0.59799999"
+       x="0"
+       id="SVGID_3_" />
+    <clipPath
+       id="SVGID_2_-9">
+      <use
+         id="use37-0"
+         style="overflow:visible"
+         xlink:href="#SVGID_1_"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_-0">
+      <use
+         id="use43-2"
+         style="overflow:visible"
+         xlink:href="#SVGID_3_"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath170">
+      <use
+         id="use168"
+         style="overflow:visible"
+         xlink:href="#SVGID_3_"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath174">
+      <use
+         id="use172"
+         style="overflow:visible"
+         xlink:href="#SVGID_3_"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       height="111.402"
+       width="157.19701"
+       y="-0.59799999"
+       x="0"
+       id="rect108-3" />
+    <rect
+       height="111.402"
+       width="157.19701"
+       y="-0.59799999"
+       x="0"
+       id="rect113-4" />
+    <clipPath
+       id="SVGID_2_-5">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_1_"
+         style="overflow:visible"
+         id="use37-5" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_-7">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use43-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath388">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use386" />
+    </clipPath>
+    <clipPath
+       id="clipPath392">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use390" />
+    </clipPath>
+    <rect
+       id="rect108-9"
+       x="0"
+       y="-0.59799999"
+       width="157.19701"
+       height="111.402" />
+    <rect
+       id="rect113-5"
+       x="0"
+       y="-0.59799999"
+       width="157.19701"
+       height="111.402" />
+    <clipPath
+       id="SVGID_2_-6">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_1_"
+         style="overflow:visible"
+         id="use37-6" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_-9">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use43-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath651">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use649" />
+    </clipPath>
+    <clipPath
+       id="clipPath655">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use653" />
+    </clipPath>
+    <rect
+       id="rect108-7"
+       x="0"
+       y="-0.59799999"
+       width="157.19701"
+       height="111.402" />
+    <rect
+       id="rect113-6"
+       x="0"
+       y="-0.59799999"
+       width="157.19701"
+       height="111.402" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="787.54529"
+     inkscape:cy="481.4067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1979"
+     inkscape:window-height="953"
+     inkscape:window-x="3816"
+     inkscape:window-y="107"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="-585.76167,142.87604"
+       orientation="0,1"
+       id="guide3723"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="254,369.82136"
+       orientation="1,0"
+       id="guide3725"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1980"
+       id="guide144"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="523.875,285.75"
+       orientation="0,-1980"
+       id="guide148"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,285.75"
+       orientation="1080,0"
+       id="guide150"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1920"
+       id="guide814"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,0"
+       orientation="-1080,0"
+       id="guide816"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="508,285.75"
+       orientation="0,-1920"
+       id="guide818"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,285.75"
+       orientation="1080,0"
+       id="guide820"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458335"
+       id="rect4036"
+       width="508"
+       height="285.75"
+       x="-5.5067062e-14"
+       y="11.249985" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4003"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;line-height:1.25;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26977447,0,0,0.26977447,253.35886,-113.44778)"><flowRegion
+         id="flowRegion4005"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;text-anchor:start"><rect
+           id="rect4007"
+           width="905"
+           height="478"
+           x="34"
+           y="572"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4017">…eine Gruppe segelbegeisterte Techniker</flowPara><flowPara
+         id="flowPara187">mit vielen Ideen und vom</flowPara><flowPara
+         id="flowPara4019">DO-IT-YOURSELF Gedanken motiviert…</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="396.875"
+       y="87.979149"
+       id="text173"><tspan
+         sodipodi:role="line"
+         id="tspan171"
+         x="396.875"
+         y="97.652626"
+         style="stroke-width:0.26458335" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="262.99585"
+       y="30.829149"
+       id="text208"><tspan
+         sodipodi:role="line"
+         id="tspan206"
+         x="262.99585"
+         y="30.829149"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';stroke-width:0.26458335">Wer wir sind ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335;"
+       x="262.61609"
+       y="142.79659"
+       id="text208-5"><tspan
+         sodipodi:role="line"
+         id="tspan206-3"
+         x="262.61609"
+         y="142.79659"
+         style="font-size:12.69999981px;stroke-width:0.26458335;-inkscape-font-specification:'Rubik Bold';font-family:Rubik;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">www.open-boat-projects.org</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4003-0"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;line-height:1.25;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26977446,0,0,0.26977446,-1.3832884,31.747098)"><flowRegion
+         id="flowRegion4005-9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;text-anchor:start"><rect
+           id="rect4007-9"
+           width="905"
+           height="478"
+           x="34"
+           y="572"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:41.84565353px;font-family:Jura;-inkscape-font-specification:'Jura Semi-Bold';text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4019-0">• mit Offenheit</flowPara><flowPara
+         id="flowPara111">• Beteiligung der späteren Nutzer</flowPara><flowPara
+         id="flowPara113">• freier Hardware und Software</flowPara><flowPara
+         id="flowPara115">• gegenseitiger Unterstützung und</flowPara><flowPara
+         id="flowPara117">mit Spaß an coolen maritimen Projekten</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="7.1953473"
+       y="173.37819"
+       id="text208-58"><tspan
+         sodipodi:role="line"
+         id="tspan206-6"
+         x="7.1953473"
+         y="173.37819"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';stroke-width:0.26458335">Wie wir entwickeln ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="7.8739324"
+       y="287.99146"
+       id="text208-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan206-3-7"
+         x="7.8739324"
+         y="287.99146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';stroke-width:0.26458335">info@open-boat-projects.org</tspan></text>
+    <g
+       id="g172"
+       transform="matrix(0.68710652,0,0,0.68710652,-1.4691411,17.43722)">
+      <g
+         style="display:inline"
+         transform="translate(0,-97)"
+         id="layer1-5"
+         inkscape:label="Ebene 1">
+        <rect
+           y="87.995232"
+           x="2.1381562"
+           height="207.93568"
+           width="293.99649"
+           id="rect827"
+           style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <g
+         transform="translate(0,-11)"
+         style="display:inline"
+         inkscape:label="Ebene 2"
+         id="layer2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3736"
+           d="M 11.759859,162.35694 109.04596,24.445862 V 162.89148 Z"
+           style="fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3738"
+           d="M 131.4966,23.911323 V 161.8224 H 264.59683 V 23.376784 Z"
+           style="fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           y="1.9952309"
+           x="2.1381562"
+           height="207.93568"
+           width="293.99649"
+           id="rect825"
+           style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <g
+         transform="translate(0,-11)"
+         style="display:inline"
+         inkscape:label="Ebene 3"
+         id="layer3">
+        <text
+           id="text3746"
+           y="85.30162"
+           x="147.27094"
+           style="font-style:normal;font-weight:normal;font-size:64.79262543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.61981559"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;fill-opacity:1;stroke-width:1.61981559"
+             y="85.30162"
+             x="147.27094"
+             id="tspan3744"
+             sodipodi:role="line">OP</tspan></text>
+        <text
+           id="text3746-1"
+           y="147.60292"
+           x="147.33258"
+           style="font-style:normal;font-weight:normal;font-size:64.79262543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.61981559"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;fill-opacity:1;stroke-width:1.61981559"
+             y="147.60292"
+             x="147.33258"
+             id="tspan3744-1"
+             sodipodi:role="line">EN</tspan></text>
+        <text
+           transform="scale(0.98962213,1.0104867)"
+           id="text3742"
+           y="196.46695"
+           x="10.306168"
+           style="font-style:normal;font-weight:normal;font-size:10.47350216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26183751"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:34.91167068px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#102c99;fill-opacity:1;stroke-width:0.26183751"
+             y="196.46695"
+             x="10.306168"
+             id="tspan3740"
+             sodipodi:role="line">Boat Projects</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g172-4"
+       transform="matrix(0.68710652,0,0,0.68710652,304.52396,160.31118)">
+      <g
+         style="display:inline"
+         transform="translate(0,-97)"
+         id="layer1-5-2"
+         inkscape:label="Ebene 1">
+        <rect
+           y="87.995232"
+           x="2.1381562"
+           height="207.93568"
+           width="293.99649"
+           id="rect827-7"
+           style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <g
+         transform="translate(0,-11)"
+         style="display:inline"
+         inkscape:label="Ebene 2"
+         id="layer2-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3736-6"
+           d="M 11.759859,162.35694 109.04596,24.445862 V 162.89148 Z"
+           style="fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3738-2"
+           d="M 131.4966,23.911323 V 161.8224 H 264.59683 V 23.376784 Z"
+           style="fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           y="1.9952309"
+           x="2.1381562"
+           height="207.93568"
+           width="293.99649"
+           id="rect825-6"
+           style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <g
+         transform="translate(0,-11)"
+         style="display:inline"
+         inkscape:label="Ebene 3"
+         id="layer3-1">
+        <text
+           id="text3746-2"
+           y="85.30162"
+           x="147.27094"
+           style="font-style:normal;font-weight:normal;font-size:64.79262543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.61981559"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;fill-opacity:1;stroke-width:1.61981559"
+             y="85.30162"
+             x="147.27094"
+             id="tspan3744-4"
+             sodipodi:role="line">OP</tspan></text>
+        <text
+           id="text3746-1-7"
+           y="147.60292"
+           x="147.33258"
+           style="font-style:normal;font-weight:normal;font-size:64.79262543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.61981559"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;fill-opacity:1;stroke-width:1.61981559"
+             y="147.60292"
+             x="147.33258"
+             id="tspan3744-1-8"
+             sodipodi:role="line">EN</tspan></text>
+        <text
+           transform="scale(0.98962213,1.0104867)"
+           id="text3742-7"
+           y="196.46695"
+           x="10.306168"
+           style="font-style:normal;font-weight:normal;font-size:10.47350216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#102c99;fill-opacity:1;stroke:none;stroke-width:0.26183751"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:34.91167068px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#102c99;fill-opacity:1;stroke-width:0.26183751"
+             y="196.46695"
+             x="10.306168"
+             id="tspan3740-6"
+             sodipodi:role="line">Boat Projects</tspan></text>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style17"
+     type="text/css">
+	.st0{fill:#003399;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{clip-path:url(#SVGID_4_);fill:#003399;}
+	.st3{clip-path:url(#SVGID_4_);fill:#FFCC00;}
+</style>
+</svg>
