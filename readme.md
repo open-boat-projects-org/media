@@ -1,1 +1,1 @@
-screen resolution will be 3840 x 2160
+collection of screen and print content
